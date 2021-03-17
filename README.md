@@ -6,7 +6,7 @@
 
 ## About
 
-Server finder is a simple application to check information about public servers. I wrote it for demonstration purposes. You can check [demo]. 
+Server finder is a simple application to check information about public servers. I wrote it for demonstration purposes. You can check [demo] :smiley:. 
 
 The project uses:
 - [vue.js] 
