@@ -2,12 +2,11 @@
 
 <p align="center">
   <img src="https://github.com/JakubesP/server-finder-app/blob/main/logo.png?raw=true">
-  
 </p>
 
 ## About
 
-Server finder is a simple application to check information about public servers. I wrote it for demonstration purposes. 
+Server finder is a simple application to check information about public servers. I wrote it for demonstration purposes. You can check [demo]. 
 
 The project uses:
 - [vue.js] 
@@ -66,4 +65,5 @@ MIT
   [leaflet]: https://leafletjs.com/
   [maptiler]: https://www.maptiler.com/
   [ipstack]: https://ipstack.com/
+  [demo]: https://server-finder-app.herokuapp.com/
 
