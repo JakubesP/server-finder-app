@@ -19,8 +19,8 @@ The project uses:
 ## Installation and running
 
 ```sh
-git clone https://github.com/JakubesP/test
-cd test
+git clone https://github.com/JakubesP/server-finder-app
+cd server-finder-app
 ```
 #### Server
 In the `server` directory, create a `config.env` file. It should take the following form:
