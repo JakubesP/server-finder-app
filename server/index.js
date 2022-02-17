@@ -30,12 +30,6 @@ const getAddressInfo = async (address, res) => {
       });
     }
 
-    // change http to https for flag image url
-    const flag = response.data.location.country_flag;
-    if (flag) {
-      response.data.location.country_flag = `${flag.substring(0, 4)}s${flag.substring(4, flag.length)}`;
-    }
-
     return res.json({
       success: true,
       data: {
